@@ -1,0 +1,11 @@
+Symfony Parte 1: Criação de uma API Restful
+Symfony Parte 2: Autenticação e HATEOAS
+PHP Doctrine: Introdução ao Mapeamento Objeto-Relacional
+Harte 1: Produtividade no desenvolvimento web
+Laravel parte 2: Trabalhando com Autenticaçao, Relacionamentos e Testes
+Lumen: API Rest com o Micro-framework do Laravel
+Introducao ao PHP: Primeiros passos com a linguagem
+Avancando com PHP: Arrays, Strings, Funçao e Web
+MVC com PHP: Entenda o padrao Model-View-Controller
+PHP Composer: Dependências, Autoload e Publicação
+PHP e TDD : Testes com PHPUnit
